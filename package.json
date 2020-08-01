@@ -1,0 +1,23 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "A collection of short notes on what I learn everyday across different technologies and languages. Programming is a life-long journey of learning and this is my documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aizamjj/til.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aizamjj/til/issues"
+  },
+  "homepage": "https://github.com/aizamjj/til#readme",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
